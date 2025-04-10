@@ -1,0 +1,20 @@
+<!--names for contacts -->
+<resources>
+    <string name="app_name">GonzalezCarlos Contacts Address Book</string>
+    <string name="title_contacts">Contacts - Favorites</string>
+    <string name="btn_joey">Joey Diaz</string>
+    <string name="btn_big">Big Brooklyn</string>
+
+    <!-- Joey info -->
+    <string name="joey_name">Joey Diaz</string>
+    <string name="joey_address">123 main street</string>
+    <string name="joey_phone">315_542_2222</string>
+    <string name="joey_email">joeydirt@mail.com</string>
+
+    <!-- Big brooklyns info  -->
+    <string name="brooklyn_name">Big Brooklyn</string>
+    <string name="brooklyn_address">465 Forreal Street</string>
+    <string name="brooklyn_phone">315_605_5533</string>
+    <string name="brooklyn_email">imdafrfr@mail.com</string>
+
+</resources>
